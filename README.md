@@ -34,3 +34,5 @@ matrix. The game will update the scores on its own and will automatically restar
 ## Software Libraries Used
 * Wire.h - Used to write and read from the External EEPROM
 * SPI.h - Used to transmit and write data to the matrix
+## Demo Video
+https://www.youtube.com/watch?v=dEeHAKRilMw&ab_channel=AaravPatel
